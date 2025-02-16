@@ -7,7 +7,8 @@
     <title>About Me</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-    <style>body {
+    <style>
+body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -77,7 +78,8 @@ footer {
     color: white;
     padding: 10px;
     font-size: 14px;
-}</style>
+}
+</style>
 <header>
         <div class="buttons">
             <button onclick="location.href='index.html'">Home</button>
